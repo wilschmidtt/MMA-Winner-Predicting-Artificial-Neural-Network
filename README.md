@@ -8,7 +8,7 @@ Artificial neural network that predicts who will win a UFC contest between two f
 ### Prerequisites
 * Anaconda (Python 3.7 Version)
   - [Anaconda Instillation Instructions](https://docs.anaconda.com/anaconda/install/)
-  - Using Anaconda is optional, I simply chose to use it for the Spyder environment that is included
+  - Using Anaconda is optional, I simply chose to use this distribution for the Spyder environment that is included
 
 ### Packages to Install
 * pandas - software library for data manipulation and analysis
