@@ -1,5 +1,3 @@
-Still in the process of creating the README for this project. The code is complete though, so the program can be run as long as all the necessary packages have been installed on your device and the included data files are downloaded.
-
 # UFC Winner Predictor - Artificial Neural Network
 
 ![What](Images/UFC-229-stats.png)
@@ -30,7 +28,7 @@ Artificial neural network that predicts who will win a UFC contest between two f
 * Once the neural network has finished training itself, you will be asked if you would you like to have it make a fight-winner-predicition based on user-defined data? If you type 'no', the program will end. If you type 'yes', you will be prompted to enter a variety of information about each fighter in question. The program doesn't categorize fighters by name, it simply labels them as the red corner fighter and the blue corner fighter. If you are attempting to predict an upcoming UFC fight, then UFCstats.com will tell you which fighter is fighting out of the blue corner, and which is fighting out of the red. If this isn't a real-life fight, then the user determines who will be the red and blue fighters. Whether or not a fighter is assigned to be red or blue will not affect the predicition. 
 * Once all data pertaining to each fighter has been entered, the ANN will give its prediction as to who will win the fight, as well as the chance, expressed as a percentage, that it attributes to each fighter winning the contest. 
 
-* ![What](prediction.png)
+* ![What](Images/prediction.png)
 
 ## Prediction Accuracy
 * Accuracy varies each time the model is retrained, but on average, the model made predictions about the test set with 59-63% accuracy (predictions were verified by comparing them to the real life outcomes, found in the test set). 59-63% accuracy may not seem like a lot initially; however, as stated by Betfile.com, "Professional bettors can rarely do better than a 58% winners over the long term, and many won’t even achieve that number. Take ‘bettor A’ who manages e.g. a winning percentage of 60% winners (somehow!). If bettor A has ten bets on the handicap and wins six of them, losing four, then A has done amazingly well." To read the whole article, visit [Betfile.com](http://betfile.com/winning-percentages-in-betting/). 
