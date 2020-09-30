@@ -39,6 +39,6 @@ Artificial neural network that predicts who will win a UFC contest between two f
 
 ## Acknowledgments
 
-* Huge shoutout to Rajeev Warrier for scraping this data from the UFCstats website using Beautiful Soup! I did not use any of his preprocessed data files, simply the raw dataset, and then preprocessed it myself. I can't thank him enough for providing this dataset on Kaggle!
+* Huge shoutout to Rajeev Warrier for scraping this data from the UFCstats website using Beautiful Soup! I did not use any of his preprocessed data files, simply the raw dataset, and then preprocessed it myself.
 * [Rajeev's Kaggle Profile](https://www.kaggle.com/rajeevw)
 * [Rajeev's Github Profile](https://github.com/WarrierRajeev?tab=repositories)
