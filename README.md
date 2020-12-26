@@ -23,7 +23,9 @@ Artificial neural network that predicts who will win a UFC contest between two f
 
 ## Prediction Accuracy
 * Accuracy varies each time the model is retrained, but on average, the model made predictions about the test set with 59-63.44% accuracy (predictions were verified by comparing them to the real life outcomes, found in the test set). 59-63% accuracy may not seem like a lot initially; however, as stated by Betfile.com, "Professional bettors can rarely do better than a 58% winners over the long term, and many won’t even achieve that number. Take ‘bettor A’ who manages e.g. a winning percentage of 60% winners (somehow!). If bettor A has ten bets on the handicap and wins six of them, losing four, then A has done amazingly well." To read the whole article, visit [Betfile.com](http://betfile.com/winning-percentages-in-betting/). 
+
 ![What](Images/confusion_matrix.png)
+
 * Prediction accuracy is represented by the following confusion matrix.
 
 ## Authors
